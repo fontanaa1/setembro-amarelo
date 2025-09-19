@@ -1,0 +1,33 @@
+@import url('https://fonts.cdnfonts.com/css/elowen');
+@import url('https://fonts.cdnfonts.com/css/kodchasan');
+                
+h1{
+    font-family: 'Elowen', sans-serif ;
+    color: #AF6E31;
+    text-align: center;
+}
+body{
+    background-color: #fef8cd;
+    margin: 0;
+}
+.logo{
+    width: 100%;
+}
+div{
+    background-color: white;
+    width: 75%;
+    padding: 5%;
+    margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: 0 2px 20px #e9e4c4;
+
+}
+p{
+    margin-bottom: 8%; 
+    font-family: 'Kodchasan', sans-serif;
+    font-family: 'Kodchasan ExtraLight', sans-serif;
+    font-family: 'Kodchasan Light', sans-serif;
+    font-family: 'Kodchasan Medium', sans-serif;
+    font-family: 'Kodchasan SemiBold', sans-serif;
+                                                 
+}
